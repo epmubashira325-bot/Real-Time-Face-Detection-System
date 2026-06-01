@@ -88,29 +88,4 @@ python main.py
 * Real-time Detection: OpenCV
 * Emotion Classification Accuracy: High-performance real-time prediction system
 
----
 
-## Future Improvements
-
-* Improve model accuracy
-* Add voice emotion recognition
-* Deploy as web application
-* Mobile application integration
-* Multi-face emotion detection
-
----
-
-## Author
-
-**Mubashira EP**
-AI/ML Engineer | NLP & Computer Vision Developer
-
-GitHub: `https://github.com/yourusername`
-
-LinkedIn: `https://linkedin.com/in/mubashira-ep`
-
----
-
-## License
-
-This project is created for educational and learning purposes.
